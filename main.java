@@ -38,6 +38,7 @@ public class StudentReport {
             String line;
             br.readLine();
             System.out.println("input output");
+            System.out.println("input output");
             while ((line = br.readLine()) != null) {
                 String[] data = line.split(",");
                 String name = data[0];
