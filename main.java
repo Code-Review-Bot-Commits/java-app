@@ -5,7 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
-
 class Student {
     private String name;
     private List<Double> scores;
