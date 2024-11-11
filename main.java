@@ -15,6 +15,7 @@ class Student {
         this.scores = scores;
     }
 
+    
     public String getName() {
         return name;
     }
